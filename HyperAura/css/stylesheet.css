@@ -1,0 +1,266 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html,body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#backdrop {
+	position:fixed;
+  right: 0; 
+  bottom: 0;
+  min-width: 100%;  
+	min-height: 100%;
+  z-index: -100;
+}
+
+.sidenav {
+    height: 100%; 
+    width: 0; 
+    position: fixed; 
+    z-index: 1; 
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    padding-top: 10px; 
+    transition: 0.5s; 
+	
+}
+
+.About {
+	display:block;
+	color:black;
+	text-align:left;
+	letter-spacing:1px;
+	line-height:20px;
+	cursor:crosshair;
+	font-size:17px;
+	padding-left:30px;
+}
+
+.sidenav a {
+	display:block;
+	width:350px;
+    padding:10px 100px 0px 40px;
+    text-decoration: none;
+    font-size: 17px;
+    transition: 0.3s;
+}
+
+.sidenav a:hover, .offcanvas a:focus{
+    color: black;
+	cursor:crosshair;
+}
+
+.sidenav .closebtn {
+	display:block;
+	width:100%;
+	height:100%;
+    position: absolute;
+	cursor:crosshair;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+#Sidebar {
+	width:100px;
+	height:600px;
+	margin-left:auto;
+	float:left;
+}
+
+#about {
+	display:block;
+	width:100px;
+	height:100px;
+	
+}
+
+.abouthover {
+	cursor:crosshair
+
+}
+
+.abouthover:link {
+	color:red;
+	text-decoration: none;
+	font-family: 'Inconsolata', monospace;
+	font-style: bold;
+}
+
+.abouthover:visited {
+	color:black;
+	text-decoration: none;
+	font-family: 'Inconsolata', monospace;
+	font-style: bold;
+}
+
+.abouthover {
+	color:black;
+	text-decoration: none;
+	font-family: 'Inconsolata', monospace;
+	font-style: bold;
+}
+
+.abouthover {
+	color:antiquewhite;
+	text-decoration: none;
+	font-family: 'Inconsolata', monospace;
+	font-style: bold;
+}
+
+
+
+#leftfill {
+	display:block;
+	height:400px;
+}
+
+#social {
+	display:block;
+	width:100px;
+	height:70px;
+	margin-bottom:10px;
+}
+
+ul {
+	display:block;
+	text-align:right;
+	vertical-align:bottom;
+	margin-top:15px;
+	font-family: 'Inconsolata', monospace;
+	font-style: bold;
+	color:white;
+	cursor:crosshair;
+}
+
+li {
+	list-style: none;
+	font-family: 'Inconsolata', monospace;
+	font-style: bold;
+	vertical-align:bottom;
+	cursor:crosshair;
+}
+
+a {
+	cursor:crosshair
+
+}
+
+a:link {
+	color:white;
+	text-decoration: none;
+	font-family: 'Inconsolata', monospace;
+	font-style: bold;
+}
+
+a:visited {
+	color:white;
+	text-decoration: none;
+	font-family: 'Inconsolata', monospace;
+	font-style: bold;
+}
+
+a:hover {
+	color:ghostwhite;
+	text-decoration: none;
+	font-family: 'Inconsolata', monospace;
+	font-style: bold;
+}
+
+a:active {
+	color:antiquewhite;
+	text-decoration: none;
+	font-family: 'Inconsolata', monospace;
+	font-style: bold;
+}
+
+#content {
+	display:block;
+	border-style: solid;
+	border-color: white;
+	border-width:3px;
+	width:800px;
+	height:594px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.bit {
+	height:95px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.text {
+	height:50px;
+	line-height:50px;
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'Inconsolata', monospace;
+}
+
+.static {
+	font-family: 'Inconsolata', monospace;
+	color: white;
+}
+
+.displayed {
+    display: block;
+	height:300px;
+	width:100%;
+    margin-left: auto;
+	margin-right:auto;
+}
+
+#logo {
+	display:block;
+	height:300px;
+	width:474px;
+	margin-left:auto;
+	margin-right:auto;
+	cursor:crosshair;
+	
+}
+
+#credit {
+	width:100px;
+	height:600px;
+	margin-right:auto;
+	float:right;
+}
+
+#rightfill {
+	display:block;
+	height:500px;
+}
+
+#name {
+	margin-top:65px;
+	display:block;
+	width:100px;
+	height:auto;
+	font-family: 'Inconsolata', monospace;
+	font-size:14px;
+
+}
+
+#container {
+	position:relative;
+	display:flex;
+	width:auto;
+	height:100vh;
+ 	align-items: center;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+
+

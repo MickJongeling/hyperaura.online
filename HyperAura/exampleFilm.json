@@ -1,0 +1,2129 @@
+[  
+
+{
+        "image": "https://www.youtube.com/watch?v=IWKoUAJI7R4&feature=youtu.be",
+        "width": 50,
+        "height": 10,
+        "left": 5,
+        "top": 5,
+        "pause": 1000,
+        "closeAfter": 110000
+    },
+
+	{
+        "image": "https://68.media.tumblr.com/8cff262225897bea2c510213d4c63467/tumblr_ovg48bFrhz1wycjbeo3_r1_500.gif",
+        "width": 625,
+        "height": 625,
+        "left": 330,
+        "top": 200,
+        "pause": 1000,
+        "closeAfter": 30000
+    },
+	
+	   {
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 15,
+        "top": 5,
+        "pause": 1000,
+        "closeAfter": 20000
+    },
+	{
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 15,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 15,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 15,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	    {
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 155,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	    {
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 155,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 155,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 155,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	    {
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 295,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 17000
+    },
+	    {
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 295,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 16500
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 295,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 16000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 295,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 15500
+    },
+	
+{
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 435,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 15000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 435,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 14500
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 435,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 14000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 435,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 13500
+    },
+	
+ {
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 575,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 13000
+    },
+	
+	 {
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 575,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 12500
+    },
+
+	{
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 575,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 12000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 575,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 11500
+    },
+	
+{
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 715,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 14000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 715,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 14000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 715,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 715,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 9500
+    },
+	
+	
+	    {
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 855,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 9000
+    },
+	
+		    {
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 855,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 8500
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 855,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 8000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 855,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 7500
+    },
+	
+{
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 995,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 995,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 995,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 995,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+{
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 1135,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+
+
+{
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 1135,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/b319d86d0f77a4e09d2accd575409e76/tumblr_ovg48bFrhz1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 1135,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ff4ccd6ad0dec9098afdd16dd94740e5/tumblr_ovg48bFrhz1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 1135,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	
+	{
+        "image": "https://68.media.tumblr.com/e612bb17bcde35b9f5f7c83516939436/tumblr_ove61r2wUj1wycjbeo8_75sq.gif",
+        "width": 125,
+        "height": 125,
+        "left": 1135,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/3555d4d92f7d4922641b7beb7312a102/tumblr_ove66bn9C41wycjbeo7_75sq.gif",
+        "width": 125,
+        "height": 125,
+        "left": 90,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/914e9ee8175e2e302c089e28e042bfae/tumblr_ove5zjLRes1wycjbeo7_75sq.gif",
+        "width": 125,
+        "height": 125,
+         "left": 1055,
+        "top": 20,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/60035b4e8f1fa38453acee3bdb03e19a/tumblr_ovfyerK0va1wycjbeo7_75sq.gif",
+        "width": 125,
+        "height": 125,
+        "left": 90,
+        "top": 300,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/1376c9b115eb0c973068073a04848193/tumblr_ove645x3dt1wycjbeo7_75sq.gif",
+        "width": 125,
+        "height": 125,
+         "left": 1055,
+        "top": 300,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/3555d4d92f7d4922641b7beb7312a102/tumblr_ovfy8vpeSo1wycjbeo7_75sq.gif",
+        "width": 125,
+        "height": 125,
+        "left": 90,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/914e9ee8175e2e302c089e28e042bfae/tumblr_ove61r2wUj1wycjbeo7_75sq.gif",
+        "width": 125,
+        "height": 125,
+         "left": 1055,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+
+	{
+        "image": "https://68.media.tumblr.com/6ce2bcd6d59cdafa4435395bd574218d/tumblr_ove66bn9C41wycjbeo5_75sq.gif",
+        "width": 125,
+        "height": 125,
+        "left": 175,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/20413c7b96f7a45d6d154c3e277dbf16/tumblr_ove5zjLRes1wycjbeo5_75sq.gif",
+        "width": 125,
+        "height": 125,
+       	"left": 975,
+        "top": 20,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+
+	{
+        "image": "https://68.media.tumblr.com/3d8ec3c1d38ffedc30bff66cd3021f39/tumblr_ovfyerK0va1wycjbeo5_75sq.gif",
+        "width": 125,
+        "height": 125,
+        "left": 175,
+        "top": 300,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/7384471f632043471e0ba071d9431d36/tumblr_ove645x3dt1wycjbeo5_75sq.gif",
+        "width": 125,
+        "height": 125,
+       	"left": 975,
+        "top": 300,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/6ce2bcd6d59cdafa4435395bd574218d/tumblr_ovfy8vpeSo1wycjbeo5_75sq.gif",
+        "width": 125,
+        "height": 125,
+        "left": 175,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/20413c7b96f7a45d6d154c3e277dbf16/tumblr_ove61r2wUj1wycjbeo5_75sq.gif",
+        "width": 125,
+        "height": 125,
+       	"left": 975,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+
+
+ {
+        "image": "https://68.media.tumblr.com/cf20275bf1b6d52f548d2583d3e67228/tumblr_ovnmzggU0H1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 310,
+        "top": 50,
+        "pause": 1000,
+        "closeAfter": 5000
+    },
+	
+	 {
+        "image":"https://68.media.tumblr.com/7be50af6263efd0153140530e8428850/tumblr_ovm3v0Hs2v1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 310,
+        "top": 230,
+        "pause": 500,
+        "closeAfter": 3000
+    },
+	
+	 {
+        "image":"https://68.media.tumblr.com/686b8a7b1eee47d1f6c94d0ca1d2cbb4/tumblr_ovm2y9N3lu1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 310,
+        "top": 405,
+        "pause": 0,
+        "closeAfter": 6000
+    },
+	
+	
+	    {
+        "image": "https://68.media.tumblr.com/bed1a22f686e7b6e703904f8c25c2e60/tumblr_ovm3kwiigy1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 310,
+        "top": 590,
+        "pause": 700,
+        "closeAfter": 8000
+    },
+	
+	
+	 {
+        "image": "https://68.media.tumblr.com/7be50af6263efd0153140530e8428850/tumblr_ovm3v0Hs2v1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 570,
+        "top": 50,
+        "pause": 100,
+        "closeAfter": 3000
+    },
+	
+	 {
+        "image":"https://68.media.tumblr.com/80b3c9ec863a2e7e0a03be74a13d1f18/tumblr_ovm3tjMFmD1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 570,
+        "top": 230,
+        "pause": 1000,
+        "closeAfter": 5500
+    },
+	
+	 {
+        "image":"https://68.media.tumblr.com/c51fbe15449c00c8d9a6fed82d990b5a/tumblr_ov6opyhOZb1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 570,
+        "top": 405,
+        "pause": 400,
+        "closeAfter": 8000
+    },
+	
+	
+	    {
+        "image": "https://68.media.tumblr.com/c970f7001b40a07145d05a11dfcfd5c3/tumblr_ovnm5bD1m41wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 570,
+        "top": 405,
+        "pause": 500,
+        "closeAfter": 8000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/185bd6a31ea0143737bc88a741884dd3/tumblr_ov6nta71x11wycjbeo2_400.gif",
+        "width": 525,
+        "height": 525,
+        "left": 440,
+        "top": 50,
+        "pause": 1000,
+        "closeAfter": 5000
+    },
+	
+	 {
+        "image":"https://68.media.tumblr.com/f1cacae33e9fa8da261f3db2c08444f8/tumblr_ovcen4Hfxh1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 800,
+        "top": 230,
+        "pause": 600,
+        "closeAfter": 3000
+    },
+	
+	 {
+        "image":"https://68.media.tumblr.com/2ea7c8fdccafe717e0ddd2dcf754bf1a/tumblr_ovg2q2uRvD1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 500,
+        "top": 405,
+        "pause": 0,
+        "closeAfter": 9000
+    },
+	
+	
+	    {
+        "image": "https://68.media.tumblr.com/bef726a4b7ca49a98bbb02393f784e60/tumblr_ovnmxguYyG1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 240,
+        "top": 120,
+        "pause": 1000,
+        "closeAfter": 8000
+    },
+	
+	 {
+        "image": "https://68.media.tumblr.com/cf20275bf1b6d52f548d2583d3e67228/tumblr_ovnmxguYyG1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 850,
+        "top": 50,
+        "pause": 1000,
+        "closeAfter": 5000
+    },
+	
+	 {
+        "image":"https://68.media.tumblr.com/91318b58432c5f372e6472cba9e53ba2/tumblr_ovnmxguYyG1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 850,
+        "top": 230,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	 {
+        "image":"https://68.media.tumblr.com/cab450572cafb13d43847f1017e62a1e/tumblr_ovnmxguYyG1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 850,
+        "top": 405,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	    {
+        "image": "https://68.media.tumblr.com/bef726a4b7ca49a98bbb02393f784e60/tumblr_ovnmxguYyG1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 850,
+        "top": 590,
+        "pause": 1000,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/59c30dec247617b0cea9eec3202a6419/tumblr_ovnn2bEOsm1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 650,
+        "top": 50,
+        "pause": 1000,
+        "closeAfter": 5000
+    },
+	
+	 {
+        "image":"https://68.media.tumblr.com/250f272810a29d7496182acd436d97e0/tumblr_ovgbnbcxZA1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 650,
+        "top": 230,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	 {
+        "image":"https://68.media.tumblr.com/5f861eaccd78159ff970b6576914ea87/tumblr_ovgbnbcxZA1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 650,
+        "top": 405,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	    {
+        "image": "https://68.media.tumblr.com/776742d9418fcd44d1b0a15f8e2c82db/tumblr_ove5spQwLk1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 850,
+        "top": 590,
+        "pause": 5000,
+        "closeAfter": 10000
+    },
+
+	
+	{
+        "image": "https://68.media.tumblr.com/d37cd158d4e0d5ffd905a3ced3573bfc/tumblr_ovgas2S4Ne1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 15,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/dbacf359b30b5da1c9446e9f72ad39c4/tumblr_ovgas2S4Ne1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 60,
+        "top": 190,
+        "pause": 0,
+        "closeAfter": 19000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/589a314bb4a09d10af52d8776f7e2899/tumblr_ovg2q2uRvD1wycjbeo2_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 105,
+        "top": 170,
+        "pause": 1000,
+        "closeAfter": 14000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/4739586b0143ee1bac2f722bdb77686e/tumblr_ovm4ybZzvj1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 170,
+        "top": 190,
+        "pause": 0,
+        "closeAfter": 50000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/ff8e32b8f3fcf10be974e06f584b2ff5/tumblr_ov8x8swUVm1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 75,
+        "top": 170,
+        "pause": 0,
+        "closeAfter": 15000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ffa387a24be0ab7dd1eb45975d761cf2/tumblr_ovg0bwquN71wycjbeo8_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 850,
+        "top": 318,
+        "pause": 2000,
+        "closeAfter": 40000
+    },
+	
+	
+	{
+        "image": "https://68.media.tumblr.com/a7db1984528bed988838cf45e6f56f07/tumblr_ovnn3uDq9z1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 85,
+        "top": 184,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/2ce8bbef1df7580a2ed8166fd791d0ce/tumblr_ovg0bwquN71wycjbeo6_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 90,
+        "top": 170,
+        "pause": 0,
+        "closeAfter": 40000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/140e10a57a62df7fbbcd5577423b4d45/tumblr_ove5iwWYG81wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 100,
+        "top": 500,
+        "pause": 500,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/53dda5f6931963e4fdd92cbeec5c491f/tumblr_ovm2y9N3lu1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 15,
+        "top": 184,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/93e86acf6bf30caeb6d186bb3a4da0dc/tumblr_ovur2xUTox1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 200,
+        "top": 300,
+        "pause": 1000,
+        "closeAfter": 50000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/6d3b78b52f19bfeb047ae6c393dd3763/tumblr_ovur2xUTox1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 200,
+        "top": 350,
+        "pause": 0,
+        "closeAfter": 50000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/708c872f6aba28f73b41ef11341c6206/tumblr_ovur2xUTox1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 560,
+        "top": 200,
+        "pause": 1000,
+        "closeAfter": 8000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/14f9e131f4f386cc429b244209ad1bab/tumblr_ovrfol2iWK1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 450,
+        "top": 200,
+        "pause": 1000,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/cdda198a0c4d4cb095e8c489686ba29f/tumblr_ovrfhay6zN1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 350,
+        "top": 300,
+        "pause": 0,
+        "closeAfter": 50000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/a7db1984528bed988838cf45e6f56f07/tumblr_ovnn3uDq9z1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 560,
+        "top": 200,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/20d87f77ea2f08fd51f6c385e647395c/tumblr_ovrfhay6zN1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 550,
+        "top": 270,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/8dc11a17cf529c46e9af2c9d5d6923dd/tumblr_ovnjwoMa091wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 350,
+        "top": 50,
+        "pause": 0,
+        "closeAfter": 60000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/5401aa91f0259e4f277e13e5411e3a58/tumblr_ove5349HyW1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 750,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/a654db5d1cf025527134d4df074aedc0/tumblr_ovm23hl78s1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 800,
+        "top": 350,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	
+	{
+        "image": "https://68.media.tumblr.com/3b0e33e49b8bbd727bdecacf3b1cadbb/tumblr_ovm35uFAzn1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 750,
+        "top": 400,
+        "pause": 1000,
+        "closeAfter": 70000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/ee67985a1f60969a50db2a129774a866/tumblr_ovb0kubD4Y1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 750,
+        "top": 10,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/936622cc65f3ec852c83149b00659d98/tumblr_ovcdmd3sdF1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 150,
+        "top": 330,
+        "pause": 0,
+        "closeAfter": 30000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/1b6e71e862759ef9ee655415f14a267e/tumblr_ov8x8swUVm1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 1020,
+        "top": 500,
+        "pause": 0.001,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/86133b8e5a75834cc233b36adcf07c82/tumblr_ov8w1ylhGp1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 40,
+        "top": 150,
+        "pause": 500,
+        "closeAfter": 30000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/0f74897397d6229da0e3f2fad2921f36/tumblr_ovgbcmFBLG1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 200,
+        "top": 600,
+        "pause": 1000,
+        "closeAfter": 15000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/a7db1984528bed988838cf45e6f56f07/tumblr_ovnn3uDq9z1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 1200,
+        "top": 100,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/686b8a7b1eee47d1f6c94d0ca1d2cbb4/tumblr_ovm2y9N3lu1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 650,
+        "top": 100,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/584e6b030674161b106f56a1a12170a7/tumblr_ovnld0JK9p1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 550,
+        "top": 200,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ff524c3ab0798237ec68151b52583f91/tumblr_ovnld0JK9p1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 100,
+        "top": 100,
+        "pause": 0,
+        "closeAfter": 15000
+    },
+	
+	
+	{
+        "image": "https://68.media.tumblr.com/a9da1bc5c7498093a9e27c1c8ce3676f/tumblr_ovrg1qWIET1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 200,
+        "top": 420,
+        "pause": 0,
+        "closeAfter": 7000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/26fa11af623eab71a91e20407bfa8a77/tumblr_ovrfy3GvLZ1wycjbeo2_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 420,
+        "top": 520,
+        "pause": 0,
+        "closeAfter": 9000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/57e172247397de684529c6e8f22e2fb4/tumblr_ovr34prJWm1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 100,
+        "top": 500,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/d08e6b68a465528e2b831493b54e4d68/tumblr_ovr28v8lSS1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 15,
+        "top": 184,
+        "pause": 0,
+        "closeAfter": 7000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/0fbb01f0c192c2cd1623e169a31a002f/tumblr_ovnlgmz3Pp1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 200,
+        "top": 300,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/0a9f84636b729a09f5827e1ff8a002b0/tumblr_ovnim9jggx1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 1000,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 3000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/57a76ff1f41961e3dc5da15e5ad5e7d4/tumblr_ovngopDfjZ1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 990,
+        "top": 580,
+        "pause": 0,
+        "closeAfter": 15000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/83ebc1f3cfea6e09427f12e14827208f/tumblr_ovngrvS5Pv1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 970,
+        "top": 450,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/d4165853228877492156a0d8c371a586/tumblr_ovnlhv3NDU1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 780,
+        "top": 440,
+        "pause": 0,
+        "closeAfter": 4000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/43b908e7659cd3c342361f773bb2ec3b/tumblr_ovrfhay6zN1wycjbeo2_500.gif",
+        "width": 625,
+        "height": 625,
+        "left": 2500,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 30000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/7deeb267255ac6a2ccd286a5e7c4f732/tumblr_ovnhz9IOqU1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 1200,
+        "top": 270,
+        "pause": 0,
+        "closeAfter": 15000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/c2adff846426d9519b83f309cfd21583/tumblr_ovnhz9IOqU1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 700,
+        "top": 50,
+        "pause": 0,
+        "closeAfter": 3000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/566ec9b43acb3098121e991f5325d8e0/tumblr_ovnh6xWuNi1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 650,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 4000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/78b038365baa478918815ca9ecce6f59/tumblr_ovnh6xWuNi1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 750,
+        "top": 350,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	
+	{
+        "image": "https://68.media.tumblr.com/c0288751fca0050975c50d3d32ef44f2/tumblr_ovm3w8cG1j1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 840,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 3000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/8d8b6acf095ac3cda0e395a700315e20/tumblr_ovg3zaQ3KV1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 700,
+        "top": 10,
+        "pause": 0,
+        "closeAfter": 4000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/b7fae7f7c2b2ff0c654e653f3101acea/tumblr_ovg3zaQ3KV1wycjbeo5_250.gif",
+        "width": 125,
+        "height": 125,
+        "left": 800,
+        "top": 100,
+        "pause": 0,
+        "closeAfter": 3000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ed3cb44c1f1897eba2d60d600b326aab/tumblr_ove5349HyW1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 850,
+        "top": 500,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/e77137d9f8920f19c99832a9f9982152/tumblr_ovce1vx2WK1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 870,
+        "top": 150,
+        "pause": 0,
+        "closeAfter": 12000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/2ea7c8fdccafe717e0ddd2dcf754bf1a/tumblr_ovg2q2uRvD1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 500,
+        "top": 150,
+        "pause": 0,
+        "closeAfter": 15000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/2ea7c8fdccafe717e0ddd2dcf754bf1a/tumblr_ovg2q2uRvD1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 450,
+        "top": 140,
+        "pause": 1000,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/621678521e78fd10b9c5ad7ba40b068d/tumblr_ovgbt6DHab1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 420,
+        "top": 70,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/07bd41fcf61fe12d925253ace4e73d96/tumblr_ovfyq7N6jx1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 450,
+        "top": 80,
+        "pause": 0,
+        "closeAfter": 7000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/4d15c89f00a6da84d79760b0535fbdb9/tumblr_ovg0bwquN71wycjbeo1_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 430,
+        "top": 75,
+        "pause": 5000,
+        "closeAfter": 20000
+    },
+	
+	
+	{
+        "image": "https://68.media.tumblr.com/e404f4687b65830d882e5352e54de80e/tumblr_ovg0bwquN71wycjbeo2_500.gif",
+        "width": 625,
+        "height": 625,
+        "left": 360,
+        "top": 80,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/587067dc39b252f901e20f29914024ed/tumblr_ovm23hl78s1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 330,
+        "top": 90,
+        "pause": 0,
+        "closeAfter": 14000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/2ad7886473da7fad8fb88e5c3a423558/tumblr_ovm3ct8FGe1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 1000,
+        "top": 50,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/c140b2ae9f02a2e68446c8fb73eb60e9/tumblr_ovm2p47dP31wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 15,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/2229a2d3cebbfc4c3463a279eb6e5cdf/tumblr_ovm4v17c9r1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 30,
+        "top": 560,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/1ebf646325e64748bbb6018103e2d071/tumblr_ovnjr53Sma1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 45,
+        "top": 530,
+        "pause": 500,
+        "closeAfter": 3000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/218ebb46cd29de55a0e6ae2b42b1e32d/tumblr_ovnjr53Sma1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 60,
+        "top": 500,
+        "pause": 0,
+        "closeAfter": 3000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/a7db1984528bed988838cf45e6f56f07/tumblr_ovnn3uDq9z1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 75,
+        "top": 450,
+        "pause": 100,
+        "closeAfter": 25000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/20d87f77ea2f08fd51f6c385e647395c/tumblr_ovrfhay6zN1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 90,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/dc3481de2f9eee341f51bce67d33cde8/tumblr_ovr2u6BhzC1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 560,
+        "top": 200,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/111d7e045812088f0d587650166df026/tumblr_ove5iwWYG81wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 550,
+        "top": 270,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ebace8904c7d7b9af39859b36072fdde/tumblr_ovm3kwiigy1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 15,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 7000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ebace8904c7d7b9af39859b36072fdde/tumblr_ovm3kwiigy1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 30,
+        "top": 30,
+        "pause": 0,
+        "closeAfter": 7000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/130e2ac990971446f77b082dc8228188/tumblr_ovm3kwiigy1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 45,
+        "top": 35,
+        "pause": 0,
+        "closeAfter": 7000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/bed1a22f686e7b6e703904f8c25c2e60/tumblr_ovm3kwiigy1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 60,
+        "top": 50,
+        "pause": 1000,
+        "closeAfter": 7000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/6cf5fcd2293fdd443718ac4f189da6ce/tumblr_ovnh6xWuNi1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 1135,
+        "top": 5,
+        "pause": 500,
+        "closeAfter": 8000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/19724acdcd70d6abbda5f064834a5ec7/tumblr_ovr30n85lZ1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 15,
+        "top": 300,
+        "pause": 0,
+        "closeAfter": 7000
+    },
+	
+		{
+        "image": "https://68.media.tumblr.com/a9da1bc5c7498093a9e27c1c8ce3676f/tumblr_ovrg1qWIET1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 1135,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/26fa11af623eab71a91e20407bfa8a77/tumblr_ovrfy3GvLZ1wycjbeo2_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 15,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 8000
+    },
+	
+	
+	{
+        "image": "https://68.media.tumblr.com/b6ccbf72720e969f3e99fde757daf429/tumblr_ovrfy3GvLZ1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 350,
+        "top": 50,
+        "pause": 0,
+        "closeAfter": 4000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/80b3c9ec863a2e7e0a03be74a13d1f18/tumblr_ovm3tjMFmD1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 750,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 8000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/e504f9802653e71ab4db6ab47b5a4eca/tumblr_ovgas2S4Ne1wycjbeo3_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 800,
+        "top": 350,
+        "pause": 1000,
+        "closeAfter": 20000
+    },
+	
+	
+	{
+        "image": "https://68.media.tumblr.com/936622cc65f3ec852c83149b00659d98/tumblr_ovcdjq2QfL1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 750,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 12000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/963cf68f2f09625b274a322e806a8942/tumblr_ov6nx6bT7g1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 750,
+        "top": 10,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/f8a86bee87bddda42db4e8caf10689ca/tumblr_ov8te5EmyS1wycjbeo3_250.gif",
+        "width": 125,
+        "height": 125,
+        "left": 50,
+        "top": 100,
+        "pause": 0,
+        "closeAfter": 7000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ff8e32b8f3fcf10be974e06f584b2ff5/tumblr_ov8x8swUVm1wycjbeo3_250.gif",
+        "width": 125,
+        "height": 125,
+        "left": 1020,
+        "top": 500,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/1b6e71e862759ef9ee655415f14a267e/tumblr_ov8x8swUVm1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 40,
+        "top": 150,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/cebef4992bee0f28071729aef552ba40/tumblr_ov6nz2Qbf91wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 200,
+        "top": 600,
+        "pause": 500,
+        "closeAfter": 30000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/51c5fd812fd98ec1f82d099572420f97/tumblr_ovcdu6tqJ91wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 1200,
+        "top": 100,
+        "pause": 1000,
+        "closeAfter": 3000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/bd251e30d1d19ca94ba3cc31a88f29ab/tumblr_ovfy8vpeSo1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 650,
+        "top": 100,
+        "pause": 0,
+        "closeAfter": 15000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/b5caa97af83db34a717e5cbf39df2303/tumblr_ove5plc2rx1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 550,
+        "top": 200,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/bf9bdfd9cf9f2a13a5fdc6eab2a197d1/tumblr_ovm3w8cG1j1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 100,
+        "top": 100,
+        "pause": 0,
+        "closeAfter": 7000
+    },
+	
+	
+	{
+        "image": "https://68.media.tumblr.com/4bcfe58c1b86725e5d038c16e77913c7/tumblr_ovm3w8cG1j1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 200,
+        "top": 420,
+        "pause": 0,
+        "closeAfter": 4000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/511d3bc05a41d571208bb9e0e3ea25be/tumblr_ovnlfd70Tf1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 420,
+        "top": 520,
+        "pause": 0,
+        "closeAfter": 3000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/dd91c7b593e5cdf91d53fe078a074f33/tumblr_ovr2aawsCf1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 100,
+        "top": 500,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/5bb677cc7444da57029b5adb0d10c8ae/tumblr_ovr30n85lZ1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 15,
+        "top": 184,
+        "pause": 0.1,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/c86069c68925a09abb8271daee57435f/tumblr_ovrfv6guHX1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 200,
+        "top": 300,
+        "pause": 0,
+        "closeAfter": 15000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/02a13f0778f4fb6e526fd0509a5ad82a/tumblr_ovr36lUSGD1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 1000,
+        "top": 590,
+        "pause": 500,
+        "closeAfter": 5000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/ec6466e481c78e739e85ef12720048c4/tumblr_ovrfjkBGl71wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 990,
+        "top": 580,
+        "pause": 1000,
+        "closeAfter": 2000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/877604c64ec570b97eaabff157500373/tumblr_ovg3zaQ3KV1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 970,
+        "top": 450,
+        "pause": 3000,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/b7fae7f7c2b2ff0c654e653f3101acea/tumblr_ovg3zaQ3KV1wycjbeo5_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 780,
+        "top": 440,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/83d60475daf236c1e8c6fd36a449507d/tumblr_ovm2r4sm3v1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 650,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 1000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/feadc46f2040a3fabbce34fb1f5ee679/tumblr_ovm4sjzKGl1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 700,
+        "top": 270,
+        "pause": 0,
+        "closeAfter": 15000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/9c3e4dab060693abf6cdcaf1b96c80d0/tumblr_ovr28v8lSS1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 500,
+        "top": 50,
+        "pause": 0,
+        "closeAfter": 3000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/8ce9e2c358f0024d61545b8850ab66ee/tumblr_ovuqx1KRsi1wycjbeo1_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 650,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/c86069c68925a09abb8271daee57435f/tumblr_ovrfv6guHX1wycjbeo1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 700,
+        "top": 350,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	
+	{
+        "image": "https://68.media.tumblr.com/cdda198a0c4d4cb095e8c489686ba29f/tumblr_ovrfhay6zN1wycjbeo3_250.gif",
+        "width": 125,
+        "height": 125,
+        "left": 750,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 8000
+    },
+	
+	{
+        "image":"https://68.media.tumblr.com/bb9cbf0db514918b99a3fc50457b5bb8/tumblr_ovr2u6BhzC1wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 700,
+        "top": 10,
+        "pause": 0,
+        "closeAfter": 20000
+    },
+	
+	
+ {
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 295,
+        "top": 5,
+        "pause": 1000,
+        "closeAfter": 10000
+    },
+	
+	 {
+        "image":"https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 295,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	    {
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 295,
+        "top": 210,
+        "pause": 1000,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 295,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 295,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 305,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 435,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+
+	{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 435,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 435,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 435,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+ {
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 575,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	 {
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 575,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+
+	{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 575,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 575,
+        "top": 590,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 715,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 715,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 715,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+		{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 715,
+        "top": 590,
+        "pause": 1000,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 855,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 855,
+        "top": 210,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 855,
+        "top": 400,
+        "pause": 0,
+        "closeAfter": 10000
+    },
+	
+		{
+        "image": "https://68.media.tumblr.com/94353e7195c03cb3181ffa1c0bdd9116/tumblr_ovg48bFrhz1wycjbeo6_r1_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 855,
+        "top": 590,
+        "pause": 1000,
+        "closeAfter": 10000
+    },
+	
+
+{
+        "image": "https://68.media.tumblr.com/bac8f4f51c3a29778f127679e8f482da/tumblr_ovnjwoMa091wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 550,
+        "top": 250,
+        "pause": 1000,
+        "closeAfter": 3000
+    },
+	
+	
+	{
+        "image": "https://68.media.tumblr.com/9f63eb799e5c36f6db3c6d87bf253428/tumblr_ovnl91C9p51wycjbeo2_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 550,
+        "top": 250,
+        "pause": 0,
+        "closeAfter": 3000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/009f210a00a3aa83fa730623cb82e097/tumblr_ovfys6gw3l1wycjbeo3_250.gif",
+        "width": 314,
+        "height": 314,
+        "left": 450,
+        "top": 250,
+        "pause": 1000,
+        "closeAfter": 3000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/8af755f97e1d827d28106a3aec4df370/tumblr_ovcd2sr0Rn1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+       "left": 450,
+        "top": 250,
+        "pause": 1000,
+        "closeAfter": 3000
+    },
+	{
+        "image": "https://68.media.tumblr.com/b7fae7f7c2b2ff0c654e653f3101acea/tumblr_ovg3zaQ3KV1wycjbeo5_250.gif",
+         "width": 313,
+        "height": 313,
+       "left": 450,
+        "top": 250,
+        "pause": 1000,
+        "closeAfter": 3000
+    },
+	
+
+	{
+        "image": "https://68.media.tumblr.com/cdc335aeecdda3f44779d8888282f5f8/tumblr_ovg0oemcBq1wycjbeo1_100.gif",
+        "width": 314,
+        "height": 314,
+        "left": 450,
+        "top": 250,
+        "pause": 1000,
+        "closeAfter": 3000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/f8a86bee87bddda42db4e8caf10689ca/tumblr_ov8te5EmyS1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 450,
+        "top": 250,
+        "pause": 1000,
+        "closeAfter": 3000
+    },
+	{
+        "image": "https://68.media.tumblr.com/afafb4d25af6883d4f95a88d9ce8b722/tumblr_ov8t6cqnVY1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+       "left": 550,
+        "top": 250,
+        "pause": 1000,
+        "closeAfter": 3000
+    },
+	
+	
+	{
+        "image": "https://68.media.tumblr.com/6b5adc598aa7307ee931500fe0a7ca71/tumblr_ov8te5EmyS1wycjbeo4_100.gif",
+        "width": 125,
+        "height": 125,
+        "left": 550,
+        "top": 250,
+        "pause": 1000,
+        "closeAfter": 3000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/0d2811852506bc6d9ea346e3f4a08065/tumblr_ov8t6cqnVY1wycjbeo3_250.gif",
+        "width": 314,
+        "height": 314,
+        "left": 450,
+        "top": 250,
+        "pause": 1000,
+        "closeAfter": 3000
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/f8a86bee87bddda42db4e8caf10689ca/tumblr_ov8te5EmyS1wycjbeo3_250.gif",
+        "width": 313,
+        "height": 313,
+        "left": 450,
+        "top": 250,
+        "pause": 1000,
+        "closeAfter": 3000
+    },
+	
+	
+    {
+        "image": "https://68.media.tumblr.com/deca3ea78cb87af7bbb126aaf96007b3/tumblr_ov8te5EmyS1wycjbeo2_500.gif",
+        "width": 625,
+        "height": 625,
+        "left": 330,
+        "top": 5,
+        "pause": 1000,
+        "closeAfter": 3000
+    },
+	
+	 {
+        "image": "http://68.media.tumblr.com/a05c3fcc8ac49f9859c73ac3937161fd/tumblr_ovgdafV7mP1vhukyeo1_500.gif",
+        "width": 625,
+        "height": 625,
+        "left": 330,
+        "top": 5,
+        "pause": 2500,
+        "closeAfter": 4000
+    },
+	
+	 {
+        "image": "https://68.media.tumblr.com/b0fef725b03892b293d45900a75daeb9/tumblr_ovgdafV7mP1vhukyeo4_r1_500.jpg",
+        "width": 625,
+        "height": 625,
+        "left": 330,
+        "top": 5,
+        "pause": 5000,
+        "closeAfter": 6500
+    },
+	
+	{
+        "image": "https://68.media.tumblr.com/bda835a992671a734c549a17e2ee4485/tumblr_ovgdafV7mP1vhukyeo3_r1_500.gif",
+        "width": 625,
+        "height": 625,
+        "left": 330,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 800
+    }
+
+	
+]
+
+
+
+
+
+

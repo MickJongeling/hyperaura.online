@@ -1,0 +1,147 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width" initial-scale="1">
+<title>HyperAura</title>
+<link rel="stylesheet" type="text/css" href="css/stylesheet.css"/>
+<link href="css/800px.css" rel="stylesheet" type="text/css" media="screen and (max width: 700px)"/>
+<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+<link rel="icon" type="image/png" href="img/favicon.png" />
+	</head>
+<body>
+
+<video id="backdrop" preload="auto"
+ autoplay="true" loop muted>
+ 	<source src="Assets/Backdrop.mp4">
+ </video>
+<div id ="container">
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#">
+  <p class="About"> Humans generate millions of gigabytes of information on a daily basis, information that is seen as non-material but is actually lifted from a physical and decaying context.</p> <p class="About">Consciously or unconsciously, the physical object is preserved online through the act 
+of uploading and sharing it over the 
+Internet. As it is shared and reshared, 
+a single image is multiplied into several files through algorithms, resulting in its 'mechanical reproduction'.</p> 
+
+<p class="About">Walter Benjamin argues that the aura, or 
+the allure, of a work of art, diminishes 
+   each time it is reproduced.</p><p class="About"> In Benjamin's eyes, this is a negative effect, however, 
+in contemporary society, circulation has become more powerful than ownership and 
+originality through the rise of an open 
+Internet and social media sharing. </p>
+
+<p class="About">Virality has come to signify an market opportunity, a ripple through the Internet, something that in the dawn of the Internet was prevented at all costs.</p><p class="About"> This evolution in hypermedia gave birth to the Hyper Aura: <br> An enhanced evolution of singularity. </p>
+
+  <p class="About">Mick Jongeling</p>
+
+<p class="About"> <a href= "https://issuu.com/mickjongeling/docs/hyperaura" class="abouthover" target="_blank"> Read the "HyperAura" essay</a></p>
+
+
+
+	
+</a>
+	</div>
+
+
+ <div id="Sidebar">
+	
+	<section id="about">
+	<span onclick="openNav()">
+	<ul>//A</ul>
+	</span>
+	</section>
+	<section id="leftfill">
+		
+	</section>
+	<section id="social">
+	<ul>
+		<li><a href="https://www.facebook.com/hyperaura" target="_blank">//Fb</a></li>
+		<li><a href="https://www.instagram.com/hyperaura/" target="_blank">//Ig</a></li>
+		<li><a href="https://twitter.com/hyperauraonline" target="_blank">//Tw</a></li>
+	</ul>
+
+	</section>
+</div>
+<div id="content">
+<div class="text">
+<a class="static">Please allow pop-ups for the full experience</a>
+</div>
+<div class="bit">
+
+	</div>
+	<div class="displayed">
+	<div id="logo">
+		<img src="img/HyperAura_Logo.png">
+	</div>
+	</div>
+	<div class="bit">
+
+	</div>
+	<div class="text">
+<a class="static">The Journey of the Aura through the Internet</a>
+</div>
+</div>
+<div id="credit">
+<section id="rightfill">
+	
+</section>
+	<section id="name">
+		<a href="http://mickjongeling.com/" target="_blank">Mick Jongeling</a>
+	</section>
+	</div>
+
+
+	
+</div>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous"></script>
+
+<script type="text/javascript">
+
+    $(function () {
+
+		$('#logo').click(function(event) {
+			console.log('click, now getting info from the backend'); 
+			$.get('exampleFilm.json', function(data) {
+				console.log('data', data);
+				showFrame(0, data);
+			})
+		});
+
+        function showFrame(frameId, film) {
+            var frame = film[frameId];
+            var popup = window.open(frame.image, "_blank",
+                "toolbar=no,menubar=no,status=no,titlebar=no,scrollbars=no,resizable=no," +
+                "top=" + frame.top + ",left=" + frame.left + ",width=" + frame.width + ",height=" + frame.height);
+
+            window.setTimeout(function () {
+                popup.close();
+            }, frame.closeAfter);
+
+            window.setTimeout(function () {
+                if (frameId < film.length - 1) {
+                    showFrame(frameId + 1, film)
+                }
+            }, frame.pause);
+        }
+    });
+
+</script>
+	</body>
+	
+	
+<script>
+function openNav() {
+    document.getElementById("mySidenav").style.width = "500px";
+}
+
+function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+
+</html>
